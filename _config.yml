@@ -1,0 +1,28 @@
+name: The F.I.L.M Blog
+favicon: null
+layout_spectrum: 0.37622720608487725
+typography_spectrum: 0.37641711509786546
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6641730298288167
+  lightness: 0.07623601728118956
+  saturation: 0.6620953516103327
+  rhythmicContrast: 0.5778845367021859
+purpose: []
