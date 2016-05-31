@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The F.I.L.M Blog]]></title>
         <description><![CDATA[The F.I.L.M Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-f-i-l-m-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 20:21:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 31 May 2016 20:23:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-f-i-l-m-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello,</p>]]></description>
-            <link>undefinedhello/index.html</link>
+            <link>https://thegrid.ai/the-f-i-l-m-blog/hello/index.html</link>
             <guid isPermaLink="false">b18b87c4-33a2-45f1-bfee-515073ec1fd5</guid>
-            <pubDate>Tue, 31 May 2016 20:21:41 GMT</pubDate>
+            <pubDate>Tue, 31 May 2016 20:23:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
