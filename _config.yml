@@ -2,6 +2,7 @@ name: The F.I.L.M Blog
 favicon: null
 layout_spectrum: 0.37622720608487725
 typography_spectrum: 0.37641711509786546
+title: The F.I.L.M Blog
 cta:
   domain: null
   bucket: null
